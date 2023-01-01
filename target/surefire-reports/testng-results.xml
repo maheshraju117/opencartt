@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-01T16:56:24 IST" name="Suite" finished-at="2023-01-01T16:56:31 IST" duration-ms="6425">
+    <groups>
+    </groups>
+    <test started-at="2023-01-01T16:56:24 IST" name="Test" finished-at="2023-01-01T16:56:31 IST" duration-ms="6425">
+      <class name="testCases.TC_001_registerpage">
+        <test-method is-config="true" signature="start(java.lang.String)[pri:0, instance:testCases.TC_001_registerpage@72cc7e6f]" started-at="2023-01-01T16:56:25 IST" name="start" finished-at="2023-01-01T16:56:29 IST" duration-ms="3811" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="registering_account()[pri:0, instance:testCases.TC_001_registerpage@72cc7e6f]" started-at="2023-01-01T16:56:29 IST" name="registering_account" finished-at="2023-01-01T16:56:31 IST" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registering_account -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC_001_registerpage@72cc7e6f]" started-at="2023-01-01T16:56:31 IST" name="close" finished-at="2023-01-01T16:56:31 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC_001_registerpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
